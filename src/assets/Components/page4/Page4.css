@@ -1,0 +1,124 @@
+.page4_container {
+    display: flex;
+    gap: 30px;
+    padding: 50px;
+    
+  }
+  
+  .page4_form {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+  
+  .page4_form input {
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+  }
+  
+  .position_block {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-left: 3px solid #007bff;
+  }
+  
+  .navigation_buttons {
+    display: flex;
+    gap: 15px;
+    margin-top: 20px;
+  }
+  
+  .navigation_buttons button {
+    padding: 10px 20px;
+    background-color: #343a40;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  
+  .page4_preview {
+    flex: 1;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #FFF;
+    max-height: 200vh;
+    overflow-y: auto;
+  }
+
+
+  .navigation_buttons .download{
+    margin-left:6px ;
+    background: white;
+    
+    border: none;
+    /* padding: 12px 24px; */
+    /* width: 100px; */
+    /* height: 40px; */
+    
+    border-radius: 8px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-align: center;
+    margin-top: 10px;
+    color: black;
+
+  }
+
+  .navigation_buttons .prev{
+    margin-left:6px ;
+    background: white;
+    
+    border: none;
+    /* padding: 12px 24px; */
+    /* width: 100px; */
+    /* height: 40px; */
+    
+    border-radius: 8px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-align: center;
+    margin-top: 10px;
+    color: black;
+
+  }
+
+  
+.navigation_buttons .download:hover{
+    background-color: #f69e45; 
+
+}
+
+.navigation_buttons .prev:hover{
+    background-color: #f69e45; 
+
+}
+.add_btn {
+    /* background-color: rgb(3, 1, 0); */
+    background: transparent;
+    border: 1px white solid;
+
+    color: white;
+    padding: 8px;
+    width: 80%;
+    /* margin-bottom: 10px; */
+    /* border: none; */
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 0px;;
+    /* font-weight: 300; */
+  }
+  .add_btn:hover{
+    background-color: #f69e45; 
+    color: #3a3838;
+
+
+  }
+  
