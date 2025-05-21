@@ -16,17 +16,17 @@ It allows users to create professional resumes with live preview, multiple secti
 
 ---
 
-<!-- ## Demo
+## Demo
 
 Access the live demo here:  
-[https://your-username.github.io/your-repo/](https://your-username.github.io/your-repo/)
+[https://dakshrohit.github.io/Resume-builder/](https://dakshrohit.github.io/Resume-builder/)
 
 ---
-
 ## Installation
 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo -->
+git clone https://github.com/dakshrohit/Resume-builder.git
+cd Resume-builder
+
