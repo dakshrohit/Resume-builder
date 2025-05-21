@@ -1,12 +1,32 @@
-# React + Vite
+# Resume Builder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and elegant **Resume Builder** web application built with React and Vite.  
+It allows users to create professional resumes with live preview, multiple sections, and export to PDF — all without any backend.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Multi-step form for entering personal details, education, work experience, skills, and achievements  
+- Live resume preview updating in real-time as you enter data  
+- Multiple resume templates to choose from (can be extended)  
+- Export your resume as a PDF file with one click  
+- Responsive and clean UI with dark-themed design for comfortable use  
+- No backend required — fully client-side React app
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+<!-- ## Demo
+
+Access the live demo here:  
+[https://your-username.github.io/your-repo/](https://your-username.github.io/your-repo/)
+
+---
+
+## Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo -->
